@@ -2,7 +2,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff6600&width=720&lines=%F0%9F%91%8B+%0A+Hey+there%21+I'm+Samit%2C+Welcome+to+my+profile%21)](https://git.io/typing-svg)
 
-<h3><img src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/media/522522daf8b5c0871a2cd66d0f423919.gif" width="30px"> I'm a passionate AI/ML Developer </h3>
+<h3><img src="https://cdn0.iconfinder.com/data/icons/bitcoin-cryptocurrency-lavender-vol-2-1/512/cypherpunk-1024.png" width="30px"> I'm a passionate AI/ML Developer </h3>
 
 <hr/>
 
