@@ -4,6 +4,7 @@
 <h3> I'm a passionate AI/ML Developer </h3>
 
 <hr/>
+
 - 🔭 I’m currently working on **AI/ML Projects**
 - 🌱 I’m currently learning **Generative AI**
 - 📝 I regularly write articles on [sdhawal.medium.com](sdhawal.medium.com)
